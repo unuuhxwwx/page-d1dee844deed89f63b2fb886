@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.cf82sa.cn/sitemap.xml
